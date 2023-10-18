@@ -1,0 +1,196 @@
+Name    Capital    Population
+Republic of Poland    Warsaw    38500
+Chech Republic    Prague    10500
+Kingdom of Spain    Madrid    46599
+Afghanistan    Kabul    42239
+Albania    Tirana    2832
+Algeria    Algiers    45606
+Andorra    Andorra la Vella    80
+Angola    Luanda    36684
+Antigua and Barbuda    Saint John's    84
+Argentina    Buenos Aires    45773
+Armenia    Yerevan    2777
+Australia    Canberra    26439
+Austria    Vienna    8958
+Azerbaijan    Baku    10412
+The Bahamas    Nassau    412
+Bahrain    Manama    1485
+Bangladesh    Dhaka    172954
+Barbados    Bridgetown    381
+Belarus    Minsk    9489
+Belgium    Brussels    11686
+Belize    Belmopan    410
+Benin    Porto-Novo    13712
+Bhutan    Thimphu    787
+Bolivia    Sucre,La Paz    12388
+Bosnia and Herzegovina    Sarajevo    3210
+Botswana    Gaborone    2675
+Brazil    Brasilia    216422
+Brunei    Bandar Seri Begawan    452
+Bulgaria    Sofia    6687
+Burkina Faso    Ouagadougou    23351
+Burundi    Gitega    13238
+Côte d'    Ivoire    28873
+Cabo Verde    Praia    598
+Cambodia    Phnom Penh    16944
+Cameroon    Yaounde    28647
+Canada    Ottawa    28647
+Central African Republic    Bangui    5742
+Chad    N'Djamena    18278
+Chile    Santiago    19629
+China    Beijing    1425671
+Colombia    Bogotá    52085
+Comoros    Moroni    852
+Congo, Republic of the    Brazzaville    6106
+Costa Rica    San Jose    5212
+Croatia    Zagreb    4008
+Cuba    Havana    11194
+Cyprus    Nicosia    1260
+Denmark    Copenhagen    5910
+Djibouti    Djibouti    1136
+Dominica    Roseau    73
+Dominican Republic    Santo Domingo    11332
+Ecuador    Quito    18190
+Egypt    Cairo    112716
+El Salvador    San Salvador    6264
+Equatorial Guinea    Malabo    1714
+Eritrea    Asmara    3748
+Estonia    Tallinn    1322
+Eswatini    Mbabane, Lobamba    1210
+Ethiopia    Addis Ababa    126527
+Fiji    Suva    936
+Finland    Helsinki    5546
+France    Paris    64756
+Gabon    Libreville    2436
+The Gambia    Banjul    2773
+Georgia    Tbilisi    3768
+Germany    Berlin    83294
+Ghana    Accra    34121
+Greece    Athens    10341
+Grenada    Saint George's    126
+Guatemala    Guatemala City    18092
+Guinea    Conakry    14194
+Guinea-Bissau    Bissau    2150
+Guyana    Georgetown    813
+Haiti    Port-au-Prince    11343
+Honduras    Tegucigalpa    10593
+Hungary    Budapest    10156
+Iceland    Reykjavik    375
+India    New Delhi    1428627
+Indonesia    Jakarta    277534
+Iran    Tehran    89172
+Iraq    Baghdad    45506
+Ireland    Dublin    5056
+Israel    Jerusalem    9174
+Italy    Rome    58870
+Jamaica    Kingston    2852
+Japan    Tokyo    123294
+Jordan    Amman    11337
+Kazakhstan    Astana    19606
+Kenya    Nairobi    55100
+Kiribati    Tarawa    133
+Korea, North    Pyongyang    128
+Korea, South    Seoul    51784
+Kosovo    Pristina    51745
+Kuwait    Kuwait City    4310
+Kyrgyzstan    Bishkek    6735
+Laos    Vientiane    7633
+Latvia    Riga    1830
+Lebanon    Beirut    5353
+Lesotho    Maseru    2330
+Liberia    Monrovia    5418
+Libya    Tripoli    6888
+Liechtenstein   Vaduz    39
+Lithuania    Vilnius    2718
+Luxembourg    Luxembourg    654
+Madagascar    Antananarivo    30325
+Malawi    Lilongwe    20931
+Malaysia    Kuala Lumpur    34308
+Maldives    Male    521
+Mali    Bamako    23293
+Malta    Valletta    535
+Marshall Islands    Majuro    41
+Mauritania    Nouakchott    4862
+Mauritius    Port Louis    1300
+Mexico    Mexico City    128445
+Micronesia    Palikir    544
+Moldova    Chisinau    3435
+Monaco    Monaco    36
+Mongolia    Ulaanbaatar    3447
+Montenegro    Podgorica    626
+Morocco    Rabat    37840
+Mozambique    Maputo    33897
+Myanmar (Burma) Naypyidaw    54577
+Namibia    Windhoek    2604
+Nauru    Yaren District  12780
+Nepal    Kathmandu    30896
+Netherlands    Amsterdam    17618
+New Zealand    Wellington    5228
+Nicaragua    Managua    7046
+Niger    Niamey    27202
+Nigeria    Abuja    223804
+North Macedonia    Skopje    2085
+Norway    Oslo    5474
+Oman    Muscat    4644
+Pakistan    Islamabad    240485
+Palau    Ngerulmud    18
+Palestine    Jerusalem (East)    5371
+Panama    Panama City    4468
+Papua New Guinea    Port Moresby    10329
+Paraguay    Asunción    6861
+Peru    Lima    34352
+Philippines    Manila    117337
+Portugal    Lisbon    10247
+Qatar    Doha    2716
+Romania    Bucharest    19892
+Russia    Moscow    144444
+Rwanda    Kigali    14094
+Saint Kitts and Nevis   Basseterre  47
+Saint Lucia    Castries    180
+Saint Vincent and the Grenadines    Kingstown   103
+Samoa    Apia    225
+San Marino    San Marino    33
+Sao Tome and Principe    São Tomé    231
+Saudi Arabia    Riyadh    36947
+Senegal    Dakar    17763
+Serbia    Belgrade    7149
+Seychelles    Victoria    107
+Sierra Leone    Freetown    8791
+Singapore    Singapore    6014
+Slovakia    Bratislava    5795
+Slovenia    Ljubljana    2119
+Solomon Islands    Honiara    740
+Somalia    Mogadishu    18143
+South Africa    Pretoria    60414
+South Sudan    Juba    11088
+Sri Lanka    Sri Jayawardenepura Kotte   21893
+Sudan    Khartoum    48109
+Suriname    Paramaribo    623
+Sweden    Stockholm    10612
+Switzerland    Bern    8796
+Syria    Damascus    23227
+Taiwan    Taipei    3756
+Tajikistan    Dushanbe    10143
+Tanzania    Dodoma    67438
+Thailand    Bangkok    71801
+Timor-Leste    Dili    1360
+Togo    Lomé    9053
+Tonga    Nukuʻalofa    107
+Trinidad and Tobago    Port of Spain   1534
+Tunisia    Tunis    12458
+Turkey    Ankara    85816
+Turkmenistan	Ashgabat    6516
+Tuvalu    Funafuti    11
+Uganda    Kampala    48582
+Ukraine    Kyiv    36744
+United Arab Emirates	Abu Dhabi   9516
+United Kingdom	London    67736
+United States of America	Washington, D.C.    339996
+Uruguay    Montevideo    3423
+Uzbekistan    Tashkent    35163
+Vanuatu	Port    Vila    334
+Venezuela    Caracas    28838
+Vietnam    Hanoi    98858
+Yemen    Sana'a    34449
+Zambia    Lusaka    20569
+Zimbabwe    Harare    16665
